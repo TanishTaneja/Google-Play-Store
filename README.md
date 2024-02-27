@@ -25,7 +25,7 @@ This project focuses on the analysis of apps available on the Google Play Store.
 - Python 3.x
 - Pandas
 - Matplotlib
-- Seaborn
+- Plotly
 - BeautifulSoup (for web scraping)
 
 ## Conclusion
